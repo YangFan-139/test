@@ -1,0 +1,10 @@
+out/
+target/
+build/
+*.class
+*.iml
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.DS_Store
+Thumbs.db
